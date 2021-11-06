@@ -1,0 +1,32 @@
+body
+{
+    background-color: rgb(197, 194, 194);
+    font-family:cursive;
+}
+.form-box
+{
+    border-radius: 200px;
+    position: absolute;
+    left:25%;
+    width:50%;
+    height:100%;
+    background-color: rgba(255, 254, 254, 0.37);
+}
+.container
+{
+    text-align: center;
+}
+.box
+{
+    border-radius: 5px;
+    padding: 3px;
+}
+.btn
+{
+    margin-top: 20px;
+    font-family:cursive;
+    font-size: 85%;
+    border-radius:5px;
+    box-shadow: none;
+    width:25%;
+}
